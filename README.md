@@ -27,11 +27,9 @@ Professora de Cicles formatius de la família d'Informàtica i Comunicacions  a 
 - **DAWBI (Desenvolupament d'Aplicacions Web, especialitat bioinformàtica)**
 
 
-## 💻 Assignatures (mòduls) que imparteixo o he impartit
+### 💻 Assignatures (mòduls) que imparteixo o he impartit
 
-# Assignatures de Cicles Formatius - DAM i DAW
-
-## 🎓 DAM - Desenvolupament d'Aplicacions Multiplataforma
+#### 🎓 DAM - Desenvolupament d'Aplicacions Multiplataforma
 
 | Codi | Assignatura |
 |------|-------------|
